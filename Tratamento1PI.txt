@@ -1,7 +1,8 @@
 Tratamento 1
 Primeira parte - Criando o dataframe com os merge necessários
-Carga + Atracação 76878 rows x 18 apenas colunas relevantes.
+Carga + Atracação 76878 rows x 19 apenas colunas relevantes.
 Verificação de nulos 
+Tratando quais colunas estão validas e usáveis para a analise/classificação
 Observado 124 linhas que estão com uma séria de dados faltantes e removidas
 Convertendo as colunas de data hora para datetime
 Começa a busca por outliers nas colunas de data:
@@ -10,6 +11,6 @@ Encontrado linhas com anos fora do filtro 2023:
 Ações tomadas:
 Analisado se foi erro de digitação, decisão tomada: Substituir por 2023
 Analisado que chegou e atracou em 2022(geralmente operações de fim de ano) e desatracou 2023, decisão tomada: Excluir para ter apenas as chegadas em 2023
-Parte 1 encerrada com 76050 linhas e 18 colunas
+Parte 1 encerrada com 76050 linhas e 19 colunas
 (Possui scripts para criar colunas de diferença de tempo: Data Chegada -> Data Atrac.)
 (Possui scripts para separar a data e hora)
