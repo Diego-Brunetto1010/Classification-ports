@@ -13,4 +13,4 @@ Analisado se foi erro de digitação, decisão tomada: Substituir por 2023
 Analisado que chegou e atracou em 2022(geralmente operações de fim de ano) e desatracou 2023, decisão tomada: Excluir para ter apenas as chegadas em 2023
 Parte 1 encerrada com 76050 linhas e 19 colunas
 (Possui scripts para criar colunas de diferença de tempo: Data Chegada -> Data Atrac.)
-(Possui scripts para separar a data e hora)
+(Possui scripts para separar a data e hora).
